@@ -1,0 +1,9 @@
+{
+  "name": "dhcp_js",
+  "version": "0.1.0",
+  "description": "A dhcp server in nodejs",
+  "main": "main.js",
+  "repository": "http://github.com/trisell/dhcp-js",
+  "author": "Dominic Desimini",
+  "license": "MIT"
+}
